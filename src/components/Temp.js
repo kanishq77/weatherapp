@@ -7,10 +7,10 @@ export default function Temp() {
 	const [data, setData] = useState(null);
 	const API_KEY = "abeed709880f4312ba274704241302";
 	// const [loading, setLoading] = useState(true);
-	// const [debouncedInputValue, setDebouncedInputValue] = useState("London");
-	const [inputValue, setInputValue] = useState("London");
+	// const [debouncedInputValue, setDebouncedInputValue] = useState("Hyderabad");
+	const [inputValue, setInputValue] = useState("Hyderabad");
 	const [valu, setInputValu] = useState("");
-	// const [loc, setLocation] = useState("London");
+	// const [loc, setLocation] = useState("Hyderabad");
 	// useEffect(() => {
 	// 	const timerId = setTimeout(() => {
 	// 		setDebouncedInputValue(inputValue);
